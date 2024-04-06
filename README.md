@@ -133,7 +133,7 @@ SELECT SUM(transactions.sales_amount) AS total_revenue_2020 FROM transactions IN
 SELECT SUM(transactions.sales_amount) AS total_revenue_jan_2020 FROM transactions INNER JOIN date ON transactions.order_date = date.date WHERE date.year = 2020 AND date.month_name = 'January' AND (transactions.currency = 'INR' OR transactions.currency = 'USD');
 
 
-## **Tableau Dashboard : Key insights**
+## **Power BI Dashboard : Key insights**
 
 ![Key insights](https://github.com/TanviVRajput/Sales_Insights/assets/151743641/f41373e3-3ce9-4c45-a549-befe91a7cae9)
 
