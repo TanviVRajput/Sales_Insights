@@ -135,7 +135,7 @@ SELECT SUM(transactions.sales_amount) AS total_revenue_jan_2020 FROM transaction
 
 ## **Tableau Dashboard : Key insights**
 
-![Key insights](https://github.com/nidhidivecha/Sales-Insights-Analysis/assets/54711762/286e0270-e2d6-484c-a811-5c2b619e5f31)
+![Screenshot 2024-04-04 154852](https://github.com/TanviVRajput/Sales_Insights/assets/151743641/bec34981-3550-47fc-a533-45814a8a253b)
 
 
 ## **Recommendation**
