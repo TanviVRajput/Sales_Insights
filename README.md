@@ -139,12 +139,23 @@ SELECT SUM(transactions.sales_amount) AS total_revenue_jan_2020 FROM transaction
 
 
 ## **Recommendation**
-* Should Maintain healthy relationship with the customers in Bhubaneshwar, Surat, Patna as they are highest profit % by market.
 
-* Make some stategy for Bengaluru market as its revenue are less and also profit % are in negative.
+**Maintain Healthy Customer Relationships in High-Profit Markets**
 
-* Figure out what need to be done as sales quantity in Kanpur, Bengaluru, Patna, Bhubaneshwar, Surat are the lowest.
+The company should focus on maintaining healthy relationships with customers in Bhubaneshwar, Surat, and Patna, as these markets have the highest profit percentages.
 
-* North zone have highest revenue contribution but lowest profit % whereas South zone have lowest revenue contribution but highest profit %. Try to increase customers in South zone.
+**Develop a Strategy for the Bengaluru Market**
 
-* Delhi is the highest revenue contibutor and eightth highest profit contributor whereas Mumbai is the second highest revenue contributor and sixth highest profit contributor. So its need to be implement the same market strategy as in mumbai to increase the profit % in Delhi
+The Bengaluru market has lower revenue and negative profit percentages, so the company should develop a strategic plan to address this underperforming market.
+
+**Analyze Low-Performing Sales Regions**
+
+The company should investigate the reasons behind the low sales quantities in Kanpur, Bengaluru, Patna, Bhubaneshwar, and Surat, and implement measures to improve sales in these regions.
+
+**Optimize North-South Zone Performance**
+
+The North zone has the highest revenue contribution but the lowest profit percentages, while the South zone has the lowest revenue contribution but the highest profit percentages. The company should focus on increasing customer acquisition in the South zone to improve overall profitability.
+
+**Replicate Successful Strategies from Mumbai to Delhi**
+
+Delhi is the highest revenue contributor but the eighth highest profit contributor, while Mumbai is the second highest revenue contributor and the sixth highest profit contributor. The company should implement the same successful strategies used in Mumbai to increase the profit percentage in Delhi.
