@@ -131,3 +131,20 @@ SELECT SUM(transactions.sales_amount) AS total_revenue_2020 FROM transactions IN
 -- Show total revenue in the year 2020, January Month.
 
 SELECT SUM(transactions.sales_amount) AS total_revenue_jan_2020 FROM transactions INNER JOIN date ON transactions.order_date = date.date WHERE date.year = 2020 AND date.month_name = 'January' AND (transactions.currency = 'INR' OR transactions.currency = 'USD');
+
+
+## **Tableau Dashboard : Key insights**
+
+![Key insights](https://github.com/nidhidivecha/Sales-Insights-Analysis/assets/54711762/286e0270-e2d6-484c-a811-5c2b619e5f31)
+
+
+## **Recommendation**
+* Should Maintain healthy relationship with the customers in Bhubaneshwar, Surat, Patna as they are highest profit % by market.
+
+* Make some stategy for Bengaluru market as its revenue are less and also profit % are in negative.
+
+* Figure out what need to be done as sales quantity in Kanpur, Bengaluru, Patna, Bhubaneshwar, Surat are the lowest.
+
+* North zone have highest revenue contribution but lowest profit % whereas South zone have lowest revenue contribution but highest profit %. Try to increase customers in South zone.
+
+* Delhi is the highest revenue contibutor and eightth highest profit contributor whereas Mumbai is the second highest revenue contributor and sixth highest profit contributor. So its need to be implement the same market strategy as in mumbai to increase the profit % in Delhi
