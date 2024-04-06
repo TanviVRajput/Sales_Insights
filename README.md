@@ -20,7 +20,7 @@
 
 - The dashboard includes quantitative visualizations that provide valuable insights into the company's performance over time, considering various parameters that affect the business.
 
-- The analysis and insights derived from the Tableau dashboard can help the company identify areas for improvement and inform strategic business decisions.
+- The analysis and insights derived from the Power BI dashboard can help the company identify areas for improvement and inform strategic business decisions.
 
 **About ATLIQ**
 
