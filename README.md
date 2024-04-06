@@ -12,7 +12,7 @@
 
 - Designed a star schema data model using the cleaned and transformed data in the staging area.
 
-- This data model provides a structured foundation to support efficient data analysis and visualization in Tableau.
+- This data model provides a structured foundation to support efficient data analysis and visualization in Power BI.
 
 **Data Visualization and Analysis**
 
@@ -30,7 +30,7 @@ AtliQ Hardware is a company which supplies Computer Hardware and peripheral netw
 
 - MySQL
 
-- Tableau
+- Power BI
 
 - Descriptive Statistics
 
