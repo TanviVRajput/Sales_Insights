@@ -16,7 +16,7 @@
 
 **Data Visualization and Analysis**
 
-- Utilized Tableau to develop a comprehensive dashboard for analyzing the sales performance of an India-based hardware company.
+- Utilized Power BI to develop a comprehensive dashboard for analyzing the sales performance of an India-based hardware company.
 
 - The dashboard includes quantitative visualizations that provide valuable insights into the company's performance over time, considering various parameters that affect the business.
 
