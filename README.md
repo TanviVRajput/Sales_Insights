@@ -137,6 +137,10 @@ SELECT SUM(transactions.sales_amount) AS total_revenue_jan_2020 FROM transaction
 
 ![Key insights](https://github.com/TanviVRajput/Sales_Insights/assets/151743641/f41373e3-3ce9-4c45-a549-befe91a7cae9)
 
+## **Power BI Dashboard : Profit Analysis**
+
+
+
 ## **Recommendation**
 
 **Maintain Healthy Customer Relationships in High-Profit Markets**
