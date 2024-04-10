@@ -139,7 +139,11 @@ SELECT SUM(transactions.sales_amount) AS total_revenue_jan_2020 FROM transaction
 
 ## **Power BI Dashboard : Profit Analysis**
 
-![Profit Analysis](https://github.com/TanviVRajput/Sales_Insights/assets/151743641/e4478118-bb31-4cf5-9d4a-65cdd4156484)
+![Profit Analysis](https://github.com/TanviVRajput/Sales_Insights/assets/151743641/e8bbc0df-7f7a-4909-b5ab-4d4c7ea6e57a)
+
+## **Power BI Dashboard : Performance Insights**
+
+
 
 ## **Recommendation**
 
