@@ -143,6 +143,7 @@ SELECT SUM(transactions.sales_amount) AS total_revenue_jan_2020 FROM transaction
 
 ## **Power BI Dashboard : Performance Insights**
 
+![Performance Insights](https://github.com/TanviVRajput/Sales_Insights/assets/151743641/de71b8e1-7dfe-40ff-b5a1-7a6744f32d3b)
 
 
 ## **Recommendation**
@@ -158,11 +159,3 @@ The Bengaluru market has lower revenue and negative profit percentages, so the c
 **Analyze Low-Performing Sales Regions**
 
 The company should investigate the reasons behind the low sales quantities in Kanpur, Bengaluru, Patna, Bhubaneshwar, and Surat, and implement measures to improve sales in these regions.
-
-**Optimize North-South Zone Performance**
-
-The North zone has the highest revenue contribution but the lowest profit percentages, while the South zone has the lowest revenue contribution but the highest profit percentages. The company should focus on increasing customer acquisition in the South zone to improve overall profitability.
-
-**Replicate Successful Strategies from Mumbai to Delhi**
-
-Delhi is the highest revenue contributor but the eighth highest profit contributor, while Mumbai is the second highest revenue contributor and the sixth highest profit contributor. The company should implement the same successful strategies used in Mumbai to increase the profit percentage in Delhi.
